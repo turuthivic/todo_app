@@ -1,24 +1,25 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##So this is just a small project to teach guys how to create an application using the Ruby on Rails Framework.
 
 Things you may want to cover:
 
-* Ruby version
+* Authentication
 
-* System dependencies
+* Creating a nice UI
 
-* Configuration
+* Adding a real-time feature(integrate front-end framework)
 
-* Database creation
+* Writing tests
 
-* Database initialization
-
-* How to run the test suite
+* Upgrading to Rails 5.2 and using ActionCable
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+* Any other cool feature *
 
-* ...
+* Staging using heroku
+
+* Deployment using capistrano
+
+* Deployment using ansible
