@@ -1,8 +1,8 @@
 # README
 
-##So this is just a small project to teach guys how to create an application using the Ruby on Rails Framework.
+## So this is just a small project to teach guys how to create an application using the Ruby on Rails Framework.
 
-Things you may want to cover:
+Things we will cover:
 
 * Authentication
 
@@ -16,9 +16,11 @@ Things you may want to cover:
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Any other cool feature *
+* Any other cool feature \* create an issue and we'll add it
 
 * Staging using heroku
+
+* Deployment without any assisted tool
 
 * Deployment using capistrano
 
